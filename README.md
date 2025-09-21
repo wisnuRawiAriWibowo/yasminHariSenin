@@ -1,2 +1,2 @@
-# yasminHariSenin
-tidak ada deskripsi
+# yasmin
+ini adalah file belajar github dari channel WPU pak shandika
